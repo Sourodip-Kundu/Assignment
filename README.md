@@ -17,7 +17,7 @@
 ## Step 3- Spiltiing, Modeling and Feature Importance
 1. Split the the dataset with ratio of 4:1
 2. Fit the Random Forest Model
-3. Make a list of top 10 important feature
+3. Make a list of top 10 important feature using Feature Importance
 
 ## Step 4- Final Modelling
 1. Select top 10 most important from the train_dataset
