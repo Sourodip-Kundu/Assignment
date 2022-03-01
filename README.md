@@ -2,10 +2,15 @@
 
 ## Step 1- EDA
 1.Checking data types of the feature and contian NAN values or not
+
 2. Checking Descriptive statistics include those that summarize the central tendency, dispersion and shape of a dataset’s distribution
-3. Checking for multicolinearity
+
+3. Checking for multicolinearityCancel changes
+
 4. Checking the ditribution of the Features. 
+
 5. Cheking if the features have any outlier or not.
+
 6. Checking the frequency of the target varibale. If it's a imbalanced calssification or not.
 
 ## Step 2- Preprocessing
